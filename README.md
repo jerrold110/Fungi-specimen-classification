@@ -13,11 +13,11 @@ Data Understanding and Exploration:
 * Feature selection
 
 Data Cleaning and Preprocessing:
-Filling in missing values by searching for suitable predictors
-One hot encoding
+* Filling in missing values by searching for suitable predictors
+* One hot encoding
 
 Data Modelling:
-Model selection and justification
-Data model fitting
-Hyperparameter optimization
-Model assessment
+* Model selection and justification
+* Data model fitting
+* Hyperparameter optimization
+* Model assessment

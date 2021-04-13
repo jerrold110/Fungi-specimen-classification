@@ -8,9 +8,9 @@
 The purpose of this data mining project is to classify the edibility of fungi specimens based on 22 different physical characteristics. The dataset has over 8124 rows of data with 23 columns, each representing the physical data of a fungi specimen. This is an entirely categorical dataset with a binary class label: poisonous or edible - which poses some difficulties in training a machine learning model. About one quarter of the data has missing values which were estimated using data from other rows rather than just simply being removed. Two types of classifier models were used and compared against each other to classify edibility: Decision trees and Random forest. Finally, the conclusions and suggestions for deployment are included in the last section of Data Modelling.
 
 Data Understanding and Exploration:
-Exploratory analysis and
-Data visualisation
-Feature selection
+* Exploratory analysis and
+* Data visualisation
+* Feature selection
 
 Data Cleaning and Preprocessing:
 Filling in missing values by searching for suitable predictors
